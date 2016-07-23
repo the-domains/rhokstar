@@ -1,0 +1,14 @@
+layout_spectrum: 0.8090299796313047
+typography_spectrum: 0.7390418967697769
+color:
+  brandStrength: 0.9141940004192293
+  lightness: 0.9511222159489989
+  saturation: 0.7799435544293374
+  rhythmicContrast: 0.5391935773659497
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: rhokstar
